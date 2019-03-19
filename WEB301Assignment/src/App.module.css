@@ -1,0 +1,24 @@
+.counterBarLayout {
+	position: fixed;
+	left: 20px;
+	top: 110px;
+	padding-right: 60%;
+}
+
+.actionBarLayout {
+	height: 21%;
+	position: fixed;
+	left: 20px;
+	top: 860px;
+	padding-right: 60%;
+}
+
+.tableCardLayout {
+	position: fixed;
+	right: 0px;
+	top: 110px;
+}
+
+body {
+	margin: 40px;
+}

@@ -1,0 +1,21 @@
+.card {
+	background-color: white;
+	height: 105px;
+	width: 700px;
+	border-radius: 12px;
+}
+.button {
+	position: fixed;
+	left: 40px;
+	top: 25px;
+	height: 50%;
+	width: 30%;
+}
+.textField {
+	background-color: rgba(1, 12, 107, 0.185);
+	border-radius: 6px;
+	width: 60%;
+	position: fixed;
+	left: 15px;
+	top: 8px;
+}

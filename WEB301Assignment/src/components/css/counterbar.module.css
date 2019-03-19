@@ -1,0 +1,26 @@
+.counter {
+	width: 700px;
+	background-color: white;
+	min-height: 700px;
+	border-radius: 6px;
+}
+.counter .h1 {
+	position: fixed;
+	top: 320px;
+	left: 350px;
+	font-size: 100px;
+}
+.counter .arrowUpBtn {
+	font-size: 200px;
+	position: fixed;
+	top: 200px;
+	left: 270px;
+	color: black;
+}
+.counter .arrowDownBtn {
+	font-size: 200px;
+	position: fixed;
+	top: 480px;
+	left: 270px;
+	color: black;
+}
